@@ -2,15 +2,22 @@
 Mini Market
 
 
-# Web Api
---Comandos:
- Estos comandos es para crear la base de datos (Entity Framework)
-1- Add-Migration Initial -Project BusinessLogic -StartupProject WebApi -o Data/Migrations
-2- Update-Database
+## BackEnd  Web Api
 
---Ejecucion
+Estos comandos es para crear la base de datos (Entity Framework)
+
+Comando para la migracion de base de datos
+```sh
+Add-Migration Initial -Project BusinessLogic -StartupProject WebApi -o   
+```
+
+Comando para actualizar de base de datos
+```sh
+Update-Database   
+```
+
 El servicio Web api se ejecutara en el kestrel el cual su ruta por defecto es http://localhost:5000
 
+## FrontEnd Web
 
-# Web
 Su Ejecucion es normal

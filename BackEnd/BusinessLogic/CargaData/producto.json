@@ -1,0 +1,35 @@
+[
+  {
+    "Nombre": "Mandarina",
+    "Descripcion": "Mandarina sin Pepa",
+    "Stock": 100,
+    "CategoriaId": 2,
+    "Precio": 120,
+    "Imagen": "https://cdn1.frutapasion.es/wp-content/uploads/2019/11/mandarina-0.jpg"
+  },
+  {
+    "Nombre": "Sandia",
+    "Descripcion": "Sandia Madura",
+    "Stock": 600,
+    "CategoriaId": 2,
+    "Precio": 60,
+    "Imagen": "http://farmaciasecadero.com/blog/wp-content/uploads/2018/05/beneficios-Sandia.jpg"
+  },
+  {
+    "Nombre": "Lechuga",
+    "Descripcion": "Lechuga Americana",
+    "Stock": 500,
+    "CategoriaId": 1,
+    "Precio": 50,
+    "Imagen": "https://okdiario.com/img/recetas/2016/09/18/lechuga-boston.jpg"
+  },
+  {
+    "Nombre": "Tomate",
+    "Descripcion": "Tomate",
+    "Stock": 1000,
+    "CategoriaId": 1,
+    "Precio": 120,
+    "Imagen": "https://www.recetaslamasia.es/wp-content/uploads/2014/05/comidas_4.jpg"
+  }
+  
+]
